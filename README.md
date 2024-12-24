@@ -36,8 +36,8 @@ We try to add a feature by which we can classify the Mimic Voices.
 
 This project was built with dedication by:
 
-Ritam Koley
-
 Krishnagopal Jay
 
-Jit Mandal
+Ritam Koley [https://github.com/RiKo-19/Audio-Authencity-Checker]
+
+Jit Mandal  [https://github.com/jit-mandal-31/Audio-authenticity-checker]
